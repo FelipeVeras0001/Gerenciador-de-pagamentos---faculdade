@@ -1,1 +1,1 @@
-# Sistema de gerenciamento de pagamentos-faculdade
+# Gerenciamento de pagamentos-faculdade
